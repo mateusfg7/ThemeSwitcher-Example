@@ -1,9 +1,13 @@
-import React from 'react';
+import React from "react";
+
+import GlobalStyles from "./styles/global";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello Word</h1>
+    <div className='App'>
+      <GlobalStyles />
+      <Header />
     </div>
   );
 }
