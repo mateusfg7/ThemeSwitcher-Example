@@ -1,9 +1,9 @@
 export default {
-  title: "ligth",
+  title: "light",
 
   colors: {
-    primary: "#26547C",
-    secundary: "#EF476F",
+    primary: "#EF476F",
+    secundary: "#26547C",
 
     background: "#FCFCFC",
     text: "#333",
